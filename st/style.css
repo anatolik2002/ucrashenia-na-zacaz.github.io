@@ -1,0 +1,29 @@
+@chearset "utf-8"
+/*Основные*/
+	*{
+	}
+	html{
+	}
+	body{
+	    background-color: #fff;
+		margin:  0;
+		padding: 0;
+		width: 100%;
+		height: 100%;
+	}
+/*Header*/
+	header{
+		background-image: url('CFQN_V_089.png');
+		height: 700px;
+		width: 100%;
+		float: left;
+	}
+
+/*Footer*/
+	footer{
+		background-color: #000;
+		box-sizing: border-box;
+		height: 300px;
+		width:  100%;
+		float: left;
+	}
